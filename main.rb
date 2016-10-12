@@ -7,6 +7,8 @@ require './filters'
 
 ## Your test code can go here
 
-# binding.pry
-
-pp @candidates
+#binding.pry
+#pp find(5)
+#pp dayssinceapplied?(@candidates[1])
+#pp qualified_candidates(@candidates)
+pp sort(@candidates)
